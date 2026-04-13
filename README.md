@@ -24,6 +24,6 @@ Determinar la correlación entre el crecimiento de unidades económicas de servi
 
 ---
 ## 👤 Autor
-**Erick Eduardo Ramos Contreras** *Científico de Datos | Entusiasta de la Historia y Cultura Tlaxcalteca*
+**Erick Eduardo Ramos** *Científico de Datos | Entusiasta de la Historia y Cultura Tlaxcalteca*
 
 ¿Buscas un análisis de datos con impacto real? ¡Contáctame para colaborar en proyectos freelance de análisis de mercado o ciencia de datos aplicada!
